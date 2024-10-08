@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yabo and you can find [my website here](https://yabogv.github.io)
+- 👋 Hi, I’m Yabo and you can find [my personal website here](https://yabogv.github.io)
 - 👀 I’m interested in data driven policies
 - 🌱 I’m a Ph.D. candidate in economics on the job market 2024-2025
 - 📫 How to reach me: yvidogbena@uh.edu
